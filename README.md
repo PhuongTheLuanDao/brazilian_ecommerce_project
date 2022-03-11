@@ -1,3 +1,5 @@
+[View the entire analysis and code here](http://nbviewer.org/github/PhuongTheLuanDao/brazilian_ecommerce_project/blob/main/Brazilian_E_Commerce_Project.ipynb) - If you're interested about the topic.
+
 # **Olist Project**
 **The analysis has the contributions of Nguyen Tien Dung and Dao Phuong The Luan**
 
